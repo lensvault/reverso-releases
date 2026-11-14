@@ -6,6 +6,7 @@ Windows only (64-bit).
 
 ## Download
 
-1. Open [Releases](https://github.com/lensvault/reverso-releases/releases/latest) and download `reverso-<version>-windows-x64.zip`.
-2. Unzip it.
-3. Run `reverso.exe`.
+1. Open [Releases](https://github.com/lensvault/reverso-releases/releases/latest) and download `reverso-<version>-windows-x64.exe`.
+2. Run it. Windows may warn that the app is from an unknown publisher; choose More info → Run anyway.
+
+Licences for the software Reverso is built with are under Help → About Reverso.
