@@ -1,0 +1,42 @@
+[
+  {
+    "caption": "Each scan is inverted, framed and turned upright automatically, with the whole roll in the strip below.",
+    "file": "positive.jpg",
+    "height": 1200,
+    "size": 347509,
+    "title": "A roll in Reverso",
+    "width": 1920
+  },
+  {
+    "caption": "Switch between the negative and the positive, and between the full scan and the cropped frame. Reference frames sit at the end of the roll.",
+    "file": "negative-frame.jpg",
+    "height": 1200,
+    "size": 250661,
+    "title": "Negative and frame views",
+    "width": 1920
+  },
+  {
+    "caption": "Reverso finds the clear-film and fully exposed frames by itself and uses them to calibrate the roll's colours.",
+    "file": "reference-frames.jpg",
+    "height": 1200,
+    "size": 221506,
+    "title": "Reference frames",
+    "width": 1920
+  },
+  {
+    "caption": "A camera scan of a colour negative.",
+    "file": "before.jpg",
+    "height": 1600,
+    "size": 277311,
+    "title": "Before",
+    "width": 1066
+  },
+  {
+    "caption": "The same frame after Reverso: inverted, colour-balanced, cropped and turned upright.",
+    "file": "after.jpg",
+    "height": 2587,
+    "size": 1754055,
+    "title": "After",
+    "width": 1872
+  }
+]
