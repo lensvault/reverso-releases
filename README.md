@@ -1,4 +1,4 @@
-# Reverso
+# Reverso - [Download](https://github.com/lensvault/reverso-releases/releases/latest)
 
 Reverso turns camera scans of film negatives into positives. It finds the frame, inverts the negative, balances the colours and turns each picture the right way up, for a whole roll at a time.
 
